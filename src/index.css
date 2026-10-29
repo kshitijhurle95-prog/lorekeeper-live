@@ -1,0 +1,2 @@
+@import './App.css';
+*{box-sizing:border-box}html{min-width:320px;min-height:100%;scroll-behavior:smooth}body{min-width:320px;min-height:100vh;margin:0}#root{min-height:100vh}::selection{background:#735b91;color:#fff}::-webkit-scrollbar{width:9px}::-webkit-scrollbar-track{background:#111116}::-webkit-scrollbar-thumb{background:#37343e;border:2px solid #111116;border-radius:8px}a{color:inherit}
